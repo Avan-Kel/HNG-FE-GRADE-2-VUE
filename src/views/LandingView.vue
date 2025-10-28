@@ -2,9 +2,9 @@
   <div>
     <Hero />
     <section class="container-centered mt-8 grid md:grid-cols-3 gap-6 max-w-[1440px]">
-      <div class="p-6 bg-white rounded-lg shadow">Feature 1</div>
-      <div class="p-6 bg-white rounded-lg shadow">Feature 2</div>
-      <div class="p-6 bg-white rounded-lg shadow">Feature 3</div>
+      <div class="p-6 bg-white rounded-lg shadow">Responsive & Accessible Design</div>
+      <div class="p-6 bg-white rounded-lg shadow">Inline Validation & Error Feedback</div>
+      <div class="p-6 bg-white rounded-lg shadow">Manage Tickets Anywhere</div>
     </section>
   </div>
 </template>
